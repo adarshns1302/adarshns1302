@@ -37,3 +37,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="bash" width="45" height="45"/>
           
 </p>
+
+![Snake animation](https://github.com/adarshns1302/adarshns1302/blob/output/github-contribution-grid-snake.svg)
