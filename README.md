@@ -38,4 +38,3 @@
           
 </p>
 
-![Snake animation](https://github.com/adarshns1302/adarshns1302/blob/output/github-contribution-grid-snake.svg)
